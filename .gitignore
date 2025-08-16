@@ -1,0 +1,23 @@
+# Ignorar executáveis e binários
+*.out
+*.exe
+*.o
+*.obj
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar arquivos de debug
+*.dSYM/
+*.stackdump
+
+# Ignorar arquivos gerados pelo editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
